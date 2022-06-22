@@ -3,3 +3,10 @@ Prueba_nosubir.txt
 videos/
 screenshots/
 node_modules
+C:/Users/palom/OneDrive/Escritorio/Cypress/cypress/e2e/*.feature
+Cucumber/
+*.mp4
+*.jpg
+*.png
+C:\Users\palom\OneDrive\Escritorio\Cypress\cypress\e2e\Cucumber*
+Cucumber.feature
