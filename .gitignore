@@ -7,4 +7,8 @@ node_modules
 *.jpg
 *.png
 *.feature
-*.spec.js
+e2e/Cucumber2/*.spec.js
+e2e/Cucumber/*.spec.js
+e2e/Cucumber3/*.spec.js
+e2e/Cucumber4/*.spec.js
+e2e/*.feature
