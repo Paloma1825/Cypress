@@ -1,0 +1,6 @@
+npx cypress open  -> abre la ventana de cypress para lanzar las pruebas
+npx cypress run -> lanza las pruebas desde el terminal
+npx cypress run --headed -> lanza las pruebas desde el navegador
+npx cypress run --browser chrome -> elegir navegador
+npx cypress run --spec "cypress\e2e\seccion2\select.js" -> lanzar un test en especifico
+npx cypress run --spec "cypress\e2e\seccion2\*" -> lanzar un grupo de tests

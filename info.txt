@@ -1,0 +1,8 @@
+Bienvenidos al cursos de Cypress
+
+1. npm init
+2. npm install cypress --save-dev -> instalación
+3. npm install -g npx -> instalación
+4. npx cypress install --force
+5. npx cypress open --config-file cypress/package.json o bien npx cypress open
+6. para consola: crtl+c
