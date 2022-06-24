@@ -17,12 +17,12 @@
     "cypress-xpath": "^1.6.2"
   },
   "cypress-cucumber-preprocessor": {
-    "nonGlobalStepDefinitions": true,
-    "stepDefinitions": "cypress/e2e/*.{js,ts,feature}",
-    "json": {
-      "enabled": true
-    }
-  },
+ "nonGlobalStepDefinitions": true,
+ "stepDefinitions": "cypress/e2e/*.{js,ts,feature}",
+  "json": {
+  "enabled": true
+  }
+ },
   "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "latest"
   }
